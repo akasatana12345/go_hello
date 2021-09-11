@@ -1,1 +1,1 @@
-web: bin/go-hello
+web: bin/main
